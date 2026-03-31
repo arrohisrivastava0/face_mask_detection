@@ -1,0 +1,22 @@
+# Virtual environment (CRITICAL)
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Optional: large model files (uncomment only if needed)
+# *.h5
+# *.pt
+# *.pkl
